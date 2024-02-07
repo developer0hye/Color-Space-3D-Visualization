@@ -1,7 +1,7 @@
 # Color-Space-3D-Visualization
 Visualize the Color Space in 3D using Plotly on [Google Colab](https://colab.research.google.com/drive/15oyszKCTJ1wtVt1y0fqYfRHIYtyvYWoM?usp=sharing).
 
-```python
+```bash
  !pip install plotly
 ```
 
@@ -50,4 +50,16 @@ fig.show()
 ```
 
 
-![yuv example](image.png)
+![yuv example1](image.png)
+
+Experience 3D!
+
+![yuv example2](image-1.png)
+
+![yuv example3](image-2.png)
+
+![yuv example4](image-3.png)
+
+
+## Credits
+This project was generated with the assistance of ChatGPT-4, an advanced language model developed by OpenAI. The tool's concept, code snippets, and documentation were crafted through interactive sessions with the AI, showcasing the potential of AI-assisted software development.
